@@ -9,7 +9,7 @@ authors:
 version: 1.0.0
 date-released: 2026-07-27
 license: MIT
-repository-code: "https://github.com/as7251/sa-da-arx-nox-prediction"
+repository-code: "https://github.com/zhenjie1587/sa-da-arx-nox-prediction"
 keywords:
   - NOx prediction
   - coal-fired boiler
