@@ -1,0 +1,26 @@
+{
+  "status": "completed",
+  "data_file": "/workspace/scratch/13310602abc5/nox_robust_soft_sensor/source_data/Data for Dynamic modeling of NOX emission in a 660 MW coal-fired boiler with LSTM/data.xlsx",
+  "n_samples": 10000,
+  "n_process_variables": 27,
+  "targets": [
+    "NOx_A",
+    "NOx_B"
+  ],
+  "train_samples": 6490,
+  "calibration_samples": 501,
+  "test_samples": 2999,
+  "critical_sensor": "F26",
+  "load_thresholds": {
+    "ramp_threshold_MW_per_min": 1.579999999999984,
+    "low_load_cut_MW": 579.9499999999999,
+    "high_load_cut_MW": 657.97
+  },
+  "total_runtime_seconds": 62.292793685000106,
+  "python_version": "3.12.13",
+  "numpy_version": "2.3.5",
+  "pandas_version": "2.2.3",
+  "scipy_version": "1.17.0",
+  "sklearn_version": "1.8.0",
+  "random_seed": 42
+}

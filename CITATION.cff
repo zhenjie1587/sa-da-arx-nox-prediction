@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript and the public source dataset."
+title: "Sensor-Availability-Aware Dynamic NOx Prediction"
+type: software
+authors:
+  - family-names: Guo
+    given-names: Shiyu
+    email: 13196243595@163.com
+version: 1.0.0
+date-released: 2026-07-27
+license: MIT
+repository-code: "https://github.com/as7251/sa-da-arx-nox-prediction"
+keywords:
+  - NOx prediction
+  - coal-fired boiler
+  - sensor missingness
+  - dynamic soft sensor
+  - autoregressive model

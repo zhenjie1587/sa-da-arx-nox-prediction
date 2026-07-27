@@ -1,0 +1,58 @@
+{
+  "model_name": "SA-DA-ARX",
+  "clean_expert": "clean_expert.joblib",
+  "robust_expert": "robust_expert.joblib",
+  "critical_sensor": "F26",
+  "process_columns": [
+    "F01",
+    "F02",
+    "F03",
+    "F04",
+    "F05",
+    "F06",
+    "F07",
+    "F08",
+    "F09",
+    "F10",
+    "F11",
+    "F12",
+    "F13",
+    "F14",
+    "F15",
+    "F16",
+    "F17",
+    "F18",
+    "F19",
+    "F20",
+    "F21",
+    "F22",
+    "F23",
+    "F24",
+    "F25",
+    "F26",
+    "F27"
+  ],
+  "target_columns": [
+    "NOx_A",
+    "NOx_B"
+  ],
+  "target_lags": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "load_proxy": "F01",
+  "load_thresholds": {
+    "ramp_threshold_MW_per_min": 1.579999999999984,
+    "low_load_cut_MW": 579.9499999999999,
+    "high_load_cut_MW": 657.97
+  },
+  "gate": "Use robust expert when any derived input is missing."
+}

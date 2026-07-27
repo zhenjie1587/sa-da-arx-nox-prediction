@@ -1,0 +1,31 @@
+variable,role,description,unit,mapping_status
+sample_id,index,Sequential one-minute sample number,index,confirmed from workbook
+F01,process input,Unit-load proxy,MW (inferred),inferred from range and source context
+F02,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F03,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F04,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F05,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F06,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F07,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F08,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F09,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F10,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F11,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F12,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F13,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F14,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F15,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F16,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F17,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F18,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F19,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F20,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F21,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F22,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F23,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F24,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F25,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F26,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+F27,process input,Anonymized boiler operating measurement,not supplied,requires author/enterprise mapping
+NOx_A,prediction target,A-side measured NOx concentration,mg/Nm3,confirmed by source workbook and article
+NOx_B,prediction target,B-side measured NOx concentration,mg/Nm3,confirmed by source workbook and article
